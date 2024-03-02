@@ -6,7 +6,7 @@
 
 💞️ I’m open to collaboration on exciting web application projects or anything related to database management. If you have ideas or need a helping hand, count me in!
 
-📫 Reach out to me on [skfarhan053@gmai.com] to connect and share thoughts.
+📫 Reach out to me on [skfarhan053@gmail.com] to connect and share thoughts.
 
 
 <!---
