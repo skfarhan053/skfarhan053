@@ -1,4 +1,4 @@
-👋 Hi, I’m Farhan Shaik, also known as @skfarhan053!
+👋 Hi, I’m Farhan Shaik,
 
 👀 I’m passionate about football and diving into the world of web application development. I find joy in crafting projects and navigating the intricacies of databases.
 
